@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hi there! I am Huzeyfe 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=HuzeyfeAyaz)
 
