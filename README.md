@@ -3,10 +3,7 @@
 
 **About Me:**
 
-As a Senior Computer Science student, I have been working in the Bioinformatics and Database Lab for more than 3 years, and also I am a part of
-an excellent team at Syracuse University, NY. As a researcher, I am taking roles in all parts of the process, from feature engineering to evaluating
-final results after employing ML models. I am researching to make people’s lives easier. Besides, I am interested in Deep Learning related fields,
-such as Natural Language Processing (NLP) and Computer Vision. Hence, improving myself and learning new subjects are my favorite.
+I am a researcher with a background in computer science as well as its interdisciplinary fields of bioinformatics and social computing. With over three years of experience in machine learning and data science, I took role in all aspects of the project from collecting data to writing papers. I am utilizing my skills in data analysis, statistical modeling, machine learning, and data visualization to contribute to the success of academic and industrial projects. Please feel free to check out some of my open-source projects and contributions.
 
 ### Some of the Languages and Tools I know 🌐
 
