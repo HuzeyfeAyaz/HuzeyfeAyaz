@@ -23,7 +23,7 @@ I am a researcher with a background in computer science as well as its interdisc
 ### Find me on: 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>](https://www.linkedin.com/in/huzeyfeayaz/)
 [<img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40" height="40"/>](https://twitter.com/huzeyfeayaz23)
-[<img src="https://static-00.iconduck.com/assets.00/medium-icon-511x512-mxoohted.png" style="background-color:black;" width="40" height="40"/>](https://medium.com/@huzeyfeayaz)
+[<img src="https://static-00.iconduck.com/assets.00/medium-icon-511x512-mxoohted.png" style="background-color:white;" width="40" height="40"/>](https://medium.com/@huzeyfeayaz)
 [<img src="https://static-00.iconduck.com/assets.00/google-scholar-icon-512x512-8ggb625i.png" width="40" height="40"/>](https://scholar.google.com/citations?user=2g1V3qMAAAAJ&hl=en)
 
 ## My Profile in Numbers: 
