@@ -3,7 +3,7 @@
 
 **About Me:**
 
-I am a researcher with a background in computer science as well as its interdisciplinary fields of bioinformatics and social computing. With over three years of experience in machine learning and data science, I took role in all aspects of the project from collecting data to writing papers. I am utilizing my skills in data analysis, statistical modeling, machine learning, and data visualization to contribute to the success of academic and industrial projects. Please feel free to check out some of my open-source projects and contributions.
+I am a researcher with a background in computer science as well as its interdisciplinary fields of bioinformatics and social computing. With over five years of experience in machine learning and data science, I took role in all aspects of the project from collecting data to writing papers. I am utilizing my skills in data analysis, statistical modeling, machine learning, and data visualization to contribute to the success of academic and industrial projects. Please feel free to check out some of my open-source projects and contributions.
 
 ### Some of the Languages and Tools I know 🌐
 
@@ -23,8 +23,8 @@ I am a researcher with a background in computer science as well as its interdisc
 ### Find me on: 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>](https://www.linkedin.com/in/huzeyfeayaz/)
 [<img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40" height="40"/>](https://twitter.com/huzeyfeayaz23)
-[<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" width="40" height="40"/>](https://medium.com/@huzeyfeayaz)
-[<img src="https://img.icons8.com/material-outlined/24/000000/google-scholar.png" width="40" height="40"/>](https://scholar.google.com/citations?user=2g1V3qMAAAAJ&hl=en)
+[<img src="https://static-00.iconduck.com/assets.00/medium-icon-511x512-mxoohted.png" width="40" height="40"/>](https://medium.com/@huzeyfeayaz)
+[<img src="https://static-00.iconduck.com/assets.00/google-scholar-icon-512x512-8ggb625i.png" width="40" height="40"/>](https://scholar.google.com/citations?user=2g1V3qMAAAAJ&hl=en)
 
 ## My Profile in Numbers: 
 <a href="#">
